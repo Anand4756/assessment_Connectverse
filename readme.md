@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed on your machine:
 If you haven't already, clone the project repository to your local machine:
 
 ```bash
-git clone [<repository-url>](https://github.com/Anand4756/assessment_Connectverse.git)
+git clone https://github.com/Anand4756/assessment_Connectverse.git
 cd assessment_Connectverse
 ```
 
